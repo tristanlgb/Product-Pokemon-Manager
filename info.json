@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Pikachu",
+    "description": "electrico",
+    "price": 5.99,
+    "thumbnail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "code": "PKM001",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Charmander",
+    "description": "fuego",
+    "price": 8.99,
+    "thumbnail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "code": "PKM002",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Squirtle",
+    "description": "agua",
+    "price": 6.49,
+    "thumbnail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "code": "PKM003",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "Bulbasaur",
+    "description": "tierra",
+    "price": 7.99,
+    "thumbnail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "code": "PKM004",
+    "stock": 3
+  }
+]
